@@ -1,0 +1,29 @@
+.green{
+    background-color: #2b8350;
+    height: 170px;
+    width: 100px;
+}
+.yellow{
+    background-color: #f3cd54 ;
+    height: 85px;
+    width: 170px;
+    position: relative;
+    left: 100PX;
+}
+.red{
+    background-color: #e13b39;
+    height: 85px;
+    width: 170X;
+    position: relative;
+    top: 85px;   
+}
+.Benin{
+    position: relative;
+    top: 180px;
+    left: 600px;
+}
+h1{
+    position: relative;
+    top: 450px;
+    margin-left: 620px;   
+} 
